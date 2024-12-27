@@ -1,4 +1,4 @@
-# Music_Analysis
+# Music_Analysis (Preprocessing and EDA)
 
 # 🌿 Background
 I was looking to better to understand how music features affect views, likes, comments and streaming, who are top-10 artists by these 4 parameters and their distributions. I felt the best way to start was to use a dataset from Kaggle.
